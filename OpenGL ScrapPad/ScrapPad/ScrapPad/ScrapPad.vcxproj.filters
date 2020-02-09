@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\..\2] Spring %2720\2] IGME 740 - Game Graphics Programming\Assignment 1\OpenGL-ScrapPad\OpenGL ScrapPad\ScrapPad\ScrapPad\Source.cpp">
+    <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
